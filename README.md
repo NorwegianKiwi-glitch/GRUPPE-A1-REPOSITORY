@@ -1,4 +1,4 @@
-Gruppe A1 sin felles GitHub repository
+Gruppe A1 sin felles GitHub repository.
 
 
 |Navn ** **|Profil link|
