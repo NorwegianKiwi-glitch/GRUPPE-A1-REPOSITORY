@@ -9,5 +9,14 @@ Gruppe A1 sin felles GitHub repository.
 |Sultan|https://github.com/HusseinSultan|
 |Thea|https://github.com/NorwegianKiwi-glitch/GRUPPE-A1-REPOSITORY.git|
 
-Simon opprettet en gruppe-reposetory som alle har skrevet sitt navn og link til sin github profil selv.
-Så langt har vi støtt på problemer som det å pulle, men det løste vi med å klone repos. Deretter slet vi med å pushe endringene vi hadde gjort, dette løste vi med feilsøking på nettet.
+Simon opprettet en gruppe-reposetory som alle har skrevet sitt navn og 
+link til sin github profil selv. En og en av gruppemedlemmene gjort 
+pull, push request på en egen branch som ble merged med main.
+
+Så langt har vi støtt på problemer som det å pulle, men det løste vi med å klon repos. Deretter slet vi med å pushe endringene vi hadde gjort, dette 
+løste vi med feilsøking på nettet. Vi fikk hjelp av LA Filip og Willim 
+som både hjalp oss med oppgaven og ga oss en bedre forståelse av hva man 
+bruker Git og GitHub til og hvordan det fungerer.
+
+Vår forståelse av Git og GitHub:
+Simon: 4
