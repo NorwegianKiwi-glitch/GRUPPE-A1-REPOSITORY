@@ -18,6 +18,5 @@ løste vi med feilsøking på nettet. Vi fikk hjelp av LA Filip og Willim
 som både hjalp oss med oppgaven og ga oss en bedre forståelse av hva man 
 bruker Git og GitHub til og hvordan det fungerer.
 
-Vår forståelse av Git og GitHub:
-
+Vår forståelse av Git og GitHub: 
 Simon: 4
