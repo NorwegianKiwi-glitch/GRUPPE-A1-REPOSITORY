@@ -19,4 +19,5 @@ som både hjalp oss med oppgaven og ga oss en bedre forståelse av hva man
 bruker Git og GitHub til og hvordan det fungerer.
 
 Vår forståelse av Git og GitHub: 
-Simon: 4
+
+Simon Helgen: 4
