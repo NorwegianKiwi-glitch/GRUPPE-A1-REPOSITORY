@@ -21,4 +21,5 @@ bruker Git og GitHub til og hvordan det fungerer.
 Vår forståelse av Git og GitHub: 
 
 Simon Helgen: 4
+
 Sultan: 2
