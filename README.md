@@ -6,8 +6,9 @@ Gruppe A1 sin felles GitHub repository.
 |---|---|
 |Sofia Sae-Lim|https://github.com/rubixsoff|
 |Simon Helgen|https://Github.com/NorwegianKiwi-glitch|
-|Hussein Sultan|https://github.com/HusseinSultan|
-|Thea|https://github.com/NorwegianKiwi-glitch/GRUPPE-A1-REPOSITORY.git|
+|Sultan|https://github.com/HusseinSultan|
+|Thea Nielsen|https://github.com/Theani33|
+
 
 Simon opprettet en gruppe-reposetory som alle har skrevet sitt navn og 
 link til sin github profil selv. En og en av gruppemedlemmene gjort 
@@ -24,3 +25,4 @@ Simon Helgen: 4
 
 Sultan: 2
 
+Thea: 2
