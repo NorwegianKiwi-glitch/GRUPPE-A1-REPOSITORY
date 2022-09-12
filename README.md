@@ -9,6 +9,7 @@ Gruppe A1 sin felles GitHub repository.
 |Sultan|https://github.com/HusseinSultan|
 |Thea Nielsen|https://github.com/Theani33|
 
+
 Simon opprettet en gruppe-reposetory som alle har skrevet sitt navn og 
 link til sin github profil selv. En og en av gruppemedlemmene gjort 
 pull, push request på en egen branch som ble merged med main.
